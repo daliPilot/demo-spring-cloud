@@ -1,0 +1,3 @@
+logging:
+ file:
+  max-size: 10MB
